@@ -3,7 +3,7 @@
 Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 
 > Grabs Cookies From Firefox, Safari, Chromium, Microsoft Edge, Opera (GX), Opera, Brave, Chrome.
->  ![Capture](https://github.com/LeeWasTaken/Sakura-Grabber/assets/129436032/de35c1cb-19ea-41a1-bfaf-123842b7369a)
+>  ![1](https://github.com/LeeWasntTaken/Sakura-Cookie-Grabber/assets/74986472/ae7f29d4-21bd-4599-9a84-0dfc5a2384aa)
 
 # Features
 > Grabs Cookies From Lots Of Browsers,
@@ -32,5 +32,3 @@ Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 > Send File To Victim,
 > 
 > You Get Victims Cookies.
-> 
-> ![1](https://github.com/LeeWasTaken/Sakura-Grabber/assets/129436032/c17a8364-6b47-4b71-b37a-86c5393d6a42)
