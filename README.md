@@ -1,4 +1,4 @@
-# Sakura Cookie Grabber | LeeWasTaken
+# Sakura Cookie Grabber | LeeWasntTaken
 
 Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 
