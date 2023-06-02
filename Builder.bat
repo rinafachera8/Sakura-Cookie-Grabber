@@ -1,0 +1,1 @@
+pyinstaller Sakura.py --onefile
