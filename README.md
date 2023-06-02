@@ -14,9 +14,9 @@ Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 > 
 > Shut Down After Program Has Been Ran.
 >
-> IP Logger.
->
-> Fake Error.
+> IP Logger,
+> >
+> Fake Error,
 > >
 > Builder.
 
