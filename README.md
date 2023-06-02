@@ -10,9 +10,9 @@ Sakura Grabber Is A Remade Grabber From "Somethings Cookie Grabber"
 > 
 > Dummy Messages,
 > 
-> Open Source.
+> Open Source,
 > 
-> Shut Down After Program Has Been Ran.
+> Shut Down After Program Has Been Ran,
 >
 > IP Logger,
 > >
