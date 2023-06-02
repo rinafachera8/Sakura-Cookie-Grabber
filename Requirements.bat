@@ -7,3 +7,4 @@ pip install dhooks
 pip install datetime
 pip install discordwebhook
 pip install getch
+pip install pyinstaller
